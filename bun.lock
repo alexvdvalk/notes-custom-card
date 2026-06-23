@@ -4,10 +4,6 @@
   "workspaces": {
     "": {
       "name": "notes-custom-card",
-      "dependencies": {
-        "@types/node": "^26.0.0",
-        "date-fns": "^4.4.0",
-      },
       "devDependencies": {
         "@bullhorn/connect": "^1.4.0",
         "@fontsource-variable/inter": "^5.2.8",
@@ -17,8 +13,10 @@
         "@sveltejs/kit": "2.67.0",
         "@sveltejs/vite-plugin-svelte": "^7.1.2",
         "@tailwindcss/vite": "^4.3.0",
+        "@types/node": "^26.0.0",
         "bits-ui": "^2.16.3",
         "clsx": "^2.1.1",
+        "date-fns": "^4.4.0",
         "prettier": "^3.8.3",
         "prettier-plugin-svelte": "^4.1.0",
         "prettier-plugin-tailwindcss": "^0.8.0",
